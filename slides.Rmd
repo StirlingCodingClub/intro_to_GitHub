@@ -2,7 +2,9 @@
 title: "Stirling Coding Club (SCC)"
 author: "Brad Duthie"
 date: "19 September 2018"
-output: ioslides_presentation
+output:
+  ioslides_presentation: 
+    logo: images/SCC_Logo_slide_sm.png
 ---
 
 <style type="text/css">
@@ -55,46 +57,141 @@ h1, h2, h3, h4, h5, h6, h7, h8, p {
 }
 </style>
 
-##
+## Objectives for today
 
-![](images/SCC_Logo_slide.png)
-
-## Objectives for Stirling Coding Club
+<br><br>
 
 <div class="columns-2">
 
 ![](images/Octocat.png)
 
-- Friendly atmosphere for learning and developing code, modelling, and statistics
-- Regular group meet-ups and online discussion using [GitHub](http://github.com)
+- Introduce the motivation behind Stirling Coding Club (semina[r] 2.0)
+- Explain what [GitHub](http://github.com) is, what its most useful features are, and how to use them
+- Get everyone [set up with a GitHub account](https://github.com/join), and SCC membership
 
-## Code of Conduct
+</div>
+
+## Objectives for the future
+
+<br><br>
+
+<div class="columns-2">
+
+![](images/Octocat.png)
+
+- Central place online to ask coding, modelling, and statistics questions
+- Regular group meet-ups and online discussion using [GitHub](http://github.com)
+- Friendly atmosphere for learning and developing code, modelling, and statistics
+
+</div>
+
+## Worldwide Coding Club Network
+
+<div class="columns-2">
+
+- Started with [Mozilla Science](https://github.com/mozillascience/studyGroup)
+- Groups from 100+ places worldwide
+- Links with the [University of Aberdeen](https://aberdeenstudygroup.github.io/studyGroup/) and the [University of Edinburgh](https://ourcodingclub.github.io/)
+- Hundreds of open-source tutorials on coding related topics (including [GitHub](https://services.github.com/on-demand/intro-to-github/), and many on R)
+- Integrate with and contribute to coding club networks
+
+![](images/mozilla_science.png)
+
+</div>
+
+## Code of Conduct {.smaller}
 
 Stirling Study Group events are community events intended for networking and collaboration as well as learning. We value the participation of every member of the scientific community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout Stirling Study Group events, and in all interactions online associated with Stirling Study Group.
 
 To make clear what is expected, everyone taking part in Stirling Study Group events and discussions --instructors, helpers, organisers, and learners -- is required to conform to the following Code of Conduct. Organisers will enforce this code throughout events, but you may also contact us privately; all communication will be treated as confidential.
 
-## Code of Conduct {.smaller}
+**Thank you for helping make this a welcoming, friendly event for all.**
 
- - Stirling Study Group is dedicated to providing a harassment-free learning experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, religion, or choice of text editor. We do not tolerate harassment of participants in any form.
- - All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any event.
- - Be kind to others. Do not insult or put down other attendees.
- - Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate.
- - Attendees violating these rules may be asked to leave the event at the sole discretion of the event organisers without a refund of any charge that may have been levied.
+[Full code of conduct here](https://github.com/StirlingCodingClub/studyGroup/blob/gh-pages/codeOfConduct.md)
 
-Thank you for helping make this a welcoming, friendly event for all.
+## Why GitHub, and why is GitHub?
 
-[Code of conduct continues here](https://github.com/StirlingCodingClub/studyGroup/blob/gh-pages/codeOfConduct.md)
+<br>
 
-## Why use GitHub
+<div class="columns-2">
 
+- It's free (as long as you share)
+- Not sharing is free ([if you're a student](https://help.github.com/articles/applying-for-a-student-developer-pack/))
+- Largest community of coders (28+ million)
+- Largest [collection](https://github.com/search) of repositories (95+ million)
+- Built from git [version control](https://ourcodingclub.github.io/2017/02/27/git.html)
 
-
-
-
-
+![](images/github_logo.png)
 
 
+</div>
+
+## Advantages of using GitHub
+
+![](images/messy_folder.png)
+
+## Advantages of using GitHub
+
+<div class="columns-2">
+
+- Back up the [entire history](https://github.com/ConFooBio/gmse/commits/master) of a project
+- [Collaboratively code](https://github.com/bradduthie/helicoverpa/commits/master) with colleagues
+- Ask questions [on issues pages](https://github.com/tidyverse/ggplot2/issues)
+- Fork, pull request, and merge code
+- [Career development](https://github.com/FrancescaMancini) (evidence of work)
+
+![](images/git.png)
+
+## What coding club can help you do
+
+<br> 
+
+<div class="columns-2">
+
+- Improve workflow of coding and manuscript writing
+- Learn new coding, modelling, and statistical techniques
+- Share new skills with colleagues
+- Get help with problems
+
+
+![](images/SCC_Logo_slide_sm.png)
+
+
+</div>
+
+## How to learn and share knowledge
+
+<br>
+
+<div class="columns-2">
+
+<br>
+
+- Raise [issues](https://github.com/StirlingCodingClub/studyGroup/issues) in Stirling Coding Club
+- [Suggest and vote on events](https://github.com/StirlingCodingClub/studyGroup/issues/6)
+- Add repositories to GitHub
+- [Fork](https://github.com/bradduthie/MSEtools) repositories of interest
+
+<br>
+
+![](images/SCC_Logo_slide_sm.png)
+
+
+## What you need to do to get started
+
+<div class="columns-2">
+
+<br>
+
+- Get a [GitHub account](https://github.com/join)
+- Join the [Stirling Coding Club](https://github.com/StirlingCodingClub)
+- Propose SCC topics [as issues](https://github.com/StirlingCodingClub/studyGroup/issues/6)
+- [Download](https://www.rstudio.com/products/rstudio/download/) and [install](http://rprogramming.net/download-and-install-rstudio/) Rstudio
+- [Download](https://git-scm.com/downloads) and install git
+
+<br>
+
+![](images/SCC_Logo_slide_sm.png)
 
 
 
