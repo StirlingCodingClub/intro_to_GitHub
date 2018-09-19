@@ -1,5 +1,6 @@
 ---
 title: "Stirling Coding Club (SCC)"
+subtitle: https://stirlingcodingclub.github.io/intro_to_GitHub/
 author: "Brad Duthie"
 date: "19 September 2018"
 output:
